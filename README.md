@@ -111,6 +111,6 @@ If you use this dataset in your research, please cite the following paper:
 For questions, issues, or collaboration inquiries regarding this dataset, please contact:
 
 - **Dataset Maintainer**: [Thuan] ([thuan@coolant.earth](mailto:thuan@coolant.earh))
-- **Corresponding Author**: [Michael] ([email@example.com](mailto:michael@coolant.earth))
+- **Corresponding Author**: [Michael] ([michael@coolant.earth](mailto:michael@coolant.earth))
 
 ---
