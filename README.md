@@ -77,17 +77,15 @@ ForestSplat_Dataset/
 If you use this dataset in your research, please cite the following paper:
 
 ```bibtex
-@article{ForestSplat2025,
-  author = {[Author Names]},
-  title = {ForestSplat: Proof-of-Concept for a Scalable and High-Fidelity Forestry Mapping Tool Using 3D Gaussian Splatting},
-  journal = {Remote Sensing},
-  volume = {17},
-  number = {6},
-  pages = {993},
-  year = {2025},
-  publisher = {MDPI},
-  doi = {10.3390/rs17060993},
-  url = {https://www.mdpi.com/2072-4292/17/6/993}
+@article{shaheen2025forestsplat,
+  title={ForestSplat: Proof-of-Concept for a Scalable and High-Fidelity Forestry Mapping Tool Using 3D Gaussian Splatting},
+  author={Shaheen, Belal and Zane, Matthew David and Bui, Bach-Thuan and Shubham and Huang, Tianyuan and Merello, Manuel and Scheelk, Ben and Crooks, Steve and Wu, Michael},
+  journal={Remote Sensing},
+  volume={17},
+  number={6},
+  pages={993},
+  year={2025},
+  publisher={MDPI}
 }
 ```
 
